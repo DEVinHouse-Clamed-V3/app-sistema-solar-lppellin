@@ -3,7 +3,10 @@
 
 
 Listagem
-![IMG_8651](https://github.com/user-attachments/assets/7b2f89c2-cee5-4c57-b759-d79c5c05676a)
+
+![IMG_8651 (1)](https://github.com/user-attachments/assets/dd72aff4-1705-4d64-b66f-8d14b4b9408b)
+
 
 Modal
-![IMG_8652](https://github.com/user-attachments/assets/4a9a3424-1d9b-4621-b93b-cb706ad0352d)
+
+![IMG_8652 (1)](https://github.com/user-attachments/assets/7845a84c-d45d-4b2a-ac7c-a7e8db25aa7f)
