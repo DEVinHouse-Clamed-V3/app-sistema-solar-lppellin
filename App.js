@@ -3,8 +3,8 @@ import { StatusBar } from 'expo-status-bar';
 import { ImageBackground, SafeAreaView, ScrollView, View, Text, StyleSheet } from 'react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { planetas } from './planetas';
-import PlanetInfo from './PlanetInfo';
-import PlanetList from './PlanetList';
+import PlanetInfo from './src/PlanetInfo';
+import PlanetList from './src/PlanetList';
 
 export default function App() {
   const [modalVisible, setModalVisible] = useState(false);
